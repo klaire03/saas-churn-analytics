@@ -2,6 +2,8 @@
 
 End-to-end churn analytics pipeline for a SaaS cybersecurity company, combining SQL data modelling, Tableau BI dashboards, and Python-based predictive modelling to quantify revenue at risk and prioritise retention.
 
+Kaggle Dataset used: [Kaggle Dataset](/2b1295641bb180ca867afac2d927e043?pvs=25)
+
 **Business Objective**
 
 Build a production-style analytics framework to:
