@@ -4,6 +4,8 @@ End-to-end churn analytics pipeline for a SaaS cybersecurity company, combining 
 
 Kaggle Dataset used: [Kaggle Dataset](/2b1295641bb180ca867afac2d927e043?pvs=25)
 
+![My Process](images/process.png)
+
 **Business Objective**
 
 - Build a production-style analytics framework to:
